@@ -27,3 +27,7 @@
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: 100px 200px 300px;
 }
+
+/*
+https://css-tricks.com/snippets/css/complete-guide-grid/
+*/
